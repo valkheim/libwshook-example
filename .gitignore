@@ -1,0 +1,3 @@
+*.o
+sensor-ping
+vgcore.*
